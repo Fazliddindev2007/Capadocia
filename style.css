@@ -1,0 +1,184 @@
+@import url(./fonts/font.css);
+*{
+    font-family: 'RobotoCondensed';
+    font-weight: 300;
+}
+.header-bg{
+    background-image: url(./img/header-bg.jpg);
+    background-size: cover;
+    
+    height: 1080px;
+    
+}
+.navbar-links a, .navbar-contact a{
+    font-weight: 400;
+}
+.header h1{
+    color: black;
+    font-family: 'balqis';
+    font-size: 250px;
+    margin-top:150px;
+}
+.header h3{
+    font-family: 'RobotoCondensed';
+    font-style: italic;
+    font-size: 56px; 
+    font-weight: 300;
+    margin-top: -70px; 
+}
+h1{
+    color: #E2AB3F;
+    font-family: Balqis;
+    font-size: 96px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+.h3{
+    color: #000;
+    font-family: Roboto Condensed;
+    font-size: 24px;
+    font-style: italic;
+    font-weight: 300;
+    line-height: normal;
+    margin-top: -35px;
+}
+.h3-3{
+    color: #000;
+    font-family: Roboto Condensed;
+    font-size: 24px;
+    font-style: italic;
+    font-weight: 300;
+    line-height: normal;
+    margin-top: -39px;
+}
+.button-1{
+    padding: 11px 53px;
+    border: 2px solid #E2AB3F;
+}
+.box-5{
+    position: relative;
+}
+.img-1{
+    position: absolute;
+    top: 3600px;
+    right: 300px;
+}
+.img-2{
+    position: absolute;
+    top: 3900px;
+    right: 250px;
+}
+.img-3{
+    position: absolute;
+    top: 4000px;
+    right: 150px;
+}
+.h3-3-3{
+    top: -40px;
+}
+.button-12{
+    width: 280px;
+    height: 40px;
+    flex-shrink: 0;
+    border: 1px solid #E2AB3F;
+    background: #FFF;
+    margin-top: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-left: 50px;
+}
+.mt12{
+    margin-top: 20px;
+}
+.futter{
+    margin-top: 100px;
+    background-image: url(./img/footer-bg.jpg);
+    height: 900px;
+    background-size: cover;
+    position: relative;
+}
+.img-6{
+    position: absolute;
+    top: 30px;
+    left: 276px;
+}
+.card-4a{
+    margin-top: 80px;
+    margin-left: 60px;
+    display: flex;
+}
+.card-3qa{
+    margin-left: 80px;
+}
+.card-2qa{
+    margin-left: 40px;
+    font-size: 30px;
+    color: #000;
+    /* text-align: center; */
+    font-family: Roboto Condensed;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 300;
+    line-height: normal;
+}
+.card-1qa{
+    margin-left: 80px;
+    font-size: 30px;
+    color: #000;
+    /* text-align: center; */
+    font-family: Roboto Condensed;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 300;
+    line-height: normal;
+    margin-left: 80px;
+}
+.text{
+    color: #E2AB3F;
+    margin-right: 10px;
+}
+.text-1{
+    width: 40px;
+    height: 40px;
+    flex-shrink: 0;
+    color: #514022;
+    background-color:#E2AB3F;
+    font-size: 20px;
+    border-radius: 50%;
+}
+.card-5qa{
+    position: absolute;
+    top: 50px;
+    left: 100px;
+}
+.card-6qa{
+    position: absolute;
+    top: 50px;
+    left: 250px;
+    width: 600px; 
+    color: #000;
+    font-family: 'Balqis';
+    font-size: 86px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+.h1q{
+    color: #000;
+    font-family: 'Balqis';
+    font-size:   70px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+/*  */
+/*  */
+/*  */
+.hotel{
+    margin-top: 176px;
+}
+.hotel .title-info{
+    margin-top: 100px;
+}
